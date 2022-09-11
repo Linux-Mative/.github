@@ -1,4 +1,10 @@
-# Linux Mative
+<div align="center">
+  <img alt="LinuxMative logo" src="https://raw.githubusercontent.com/Linux-Mative/.github/main/logo/linix-mative-badge.png" width="120">
+</div>
+
+<div align="center">
+<h1>Linux Mative</h1>
+</div>
 
 YOUR FUTURE FAVOURITE DESKTOP OPERATING SYSTEM
 
